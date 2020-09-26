@@ -1,0 +1,4 @@
+Reversing a String:
+
+Reverse = "Reverse"[::-1]
+print(Reverse)
